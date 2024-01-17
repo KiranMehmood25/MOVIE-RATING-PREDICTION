@@ -1,2 +1,3 @@
 # MOVIE-RATING-PREDICTION
 By using Python programming analyze the dataset Indian movies and predict the ratings of the movies by using dataset.
+The Movie Rating Prediction project is a comprehensive exploration of data analysis, preprocessing, feature engineering, and machine learning modeling techniques. The primary objective is to develop a predictive model that accurately estimates the rating of a movie based on various features such as genre, director, and actors. This project delves into historical movie data to gain insights into the factors influencing movie ratings and leverages machine learning regression techniques to build a robust model.
